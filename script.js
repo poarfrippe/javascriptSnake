@@ -12,7 +12,7 @@ window.onload = function () {
 
         if (gameOver) {
             if (confirm("Verloren!! OK zum Neustarten")) {
-                window.location = "/";
+                window.location = "/javascriptSnake";
             }
             return;
         }
