@@ -1,2 +1,2 @@
-# javascriptSnake.github.io
+# javascriptSnake
 Snake in JS
